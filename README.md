@@ -17,7 +17,7 @@ There is a 2 train to Flatbush Av - Brooklyn College : 4 minutes away
 There is a 3 train to New Lots Av : 6 minutes away
 Upcoming 4 and 5 Trains:
 
-Manhattan/Bronx
+Manhattan/Bronx\n
 There is a 4 train to Woodlawn : 1 minutes away
 There is a 4 train to Woodlawn : 3 minutes away
 
@@ -27,7 +27,7 @@ There is a 4 train to Crown Hts - Utica Av : 5 minutes away
 
 
 
-dependencies:
-beautifulsoup
+dependencies:\n
+beautifulsoup\n
 requests (pip install requests)
 
