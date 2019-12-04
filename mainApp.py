@@ -1,5 +1,4 @@
 import tkinter as tk
-import random
 import os
 def update():
     times = os.popen('python times.py').read()
