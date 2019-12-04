@@ -23,4 +23,4 @@ This can be changed if you know what you're doing though, through the mainApp
 
 ## Photo of GUI:
 
-![alt text](https://raw.githubusercontent.com/etfriedman/MTAtimes/master/Screen%Shot%2019-12-04%at%3.52.00%PM.png)
+![alt text](https://raw.githubusercontent.com/etfriedman/MTAtimes/master/Screen%20Shot%202019-12-04%20at%203.52.00%20PM.png)
